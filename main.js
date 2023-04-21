@@ -1,4 +1,5 @@
 //Lesson 7 CREATING YOUR FIRST WEB APPLICATION
+"use strict";
 
 const port = 3000,
     http = require("http"),
